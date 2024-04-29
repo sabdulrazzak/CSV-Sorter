@@ -6,6 +6,6 @@ I plan to try and slowly update this depending on plan of work, but also let me 
 
 
 DIRECTIONS IF NECESSARY: 
-- Opening the .exe will open a browse window to choose your .csv file.
+- Opening the dist\data.exe will open a browse window to choose your .csv file.
 - Choose what you want to sort it by from the options.
 - Files will be sorted and saved into downloads. 
